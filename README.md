@@ -128,3 +128,8 @@ We welcome contributions to enhance KachraSeth! Please follow these steps:
 - Partner with certified recyclers for responsible e-waste management.
 - Expand the marketplace to support NGO donations.
 - Introduce token-based incentives for sustainability.
+
+## Contributors
+- <a href="https://github.com/RIO-Repository/Project-K/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=RIO-Repository/Project-K" />
+</a>
